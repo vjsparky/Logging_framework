@@ -123,3 +123,4 @@ else
     exit
 fi
                                
+echo "Check git upload"
